@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">angkut</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_enter_name">Enter your name</string>
+    <string name="string_choose_no">Enter your no_telephone</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_create_account">Create account</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="button_register">Register</string>
+
+</resources>
